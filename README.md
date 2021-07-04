@@ -4,7 +4,7 @@
 
 ## Usage
 
-1. Download this repository as a zip file.
+1. Go to this (link)[https://github.com/rs280/WebForAll-Chrome-Extension/archive/refs/heads/main.zip]
 
 2. Open `chrome://extensions` within your Chrome browser.
 
